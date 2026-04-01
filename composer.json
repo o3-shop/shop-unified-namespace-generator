@@ -25,7 +25,7 @@
   "require": {
     "php": ">=5.6",
     "smarty/smarty": "^v2.6.30",
-    "o3-shop/shop-facts": "dev-b-1.0",
+    "o3-shop/shop-facts": "^1.0",
     "composer-plugin-api": "^1.0 || ^2.0",
     "composer/composer": "^1.0 || ^2.0",
     "symfony/filesystem": "^3.3 || ^4.4.17 || ^5.4"
